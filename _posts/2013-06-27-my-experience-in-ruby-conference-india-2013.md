@@ -92,10 +92,6 @@ var tabs=function(){var b=function(c,a){var b=new RegExp("(^| )"+a+"( |$)");retu
 //--><!]]>
 </script>
 
-<a href="http://rubyconfindia.org/">
-  <img src="http://rubyconfindia.org/2013/assets/images/badges/186.png" 
-   alt="I am sponsoring RubyConf India 2013">
-</a>
 <ul class="tabs" persist="true">
     <li class="selected"><a href="#" rel="view1">Day1</a></li>
     <li class=""><a href="#" rel="view2" id="link2">Day2</a></li>
